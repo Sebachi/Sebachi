@@ -19,7 +19,7 @@ Passionate front-end developer, always open to work and learn with the best prac
 🤔 Where to find me?
 
 ###
-**[![Linkedin](https://i.stack.imgur.com/gVE0j.png) ]](https://www.linkedin.com/in/sebastian-ruiz-giraldo/)**
+**[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sebastian-ruiz-giraldo/);**
 
 <!--
 **Sebachi/Sebachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
